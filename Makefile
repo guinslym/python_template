@@ -1,4 +1,4 @@
-setup:
+1 setup:
 	pip install -e .
 	pip install -r requirements/dev.txt
 
